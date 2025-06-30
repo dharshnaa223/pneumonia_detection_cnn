@@ -118,7 +118,7 @@ All four trained models used in this project are available in a single Google Dr
 ### 📌 Included Models:
 - 🧠 Basic CNN (`basic_cnn_model(1).h5`)
 - 🏗️ VGG19 (`base_vgg19.h5`)
-- 🧠 ResNet50 – Best Accuracy (`resnet_model.h5`)
+- 🧠 ResNet50 – Best Accuracy (`final_fine_tuned_resnet.h5`)
 - ⚡ Xception (`base_xception.h5`)
 
 

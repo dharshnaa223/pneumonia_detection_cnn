@@ -1,4 +1,4 @@
-# TITLE:# A Deep Learning Approach to Pneumonia Diagnosis via Image Classification
+# TITLE:A Deep Learning Approach to Pneumonia Diagnosis via Image Classification
 
 This project presents an end-to-end deep learning pipeline to detect **Pneumonia** from chest X-ray images using multiple CNN architectures. From data preprocessing and model training to evaluation and deployment using Streamlit, the solution showcases how artificial intelligence can support faster and more accurate medical diagnosis.
 

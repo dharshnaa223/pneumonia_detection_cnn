@@ -105,6 +105,7 @@ To make the model accessible and user-friendly, I developed a **Streamlit** app 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 
 
